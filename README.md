@@ -4,33 +4,31 @@
 
 I'm a web developer with around **2 years of professional experience**, currently expanding my skills from web development into **full-stack AI engineering**.
 
-I have a strong foundation in **HTML, CSS, JavaScript, jQuery, React, Node.js, and backend development**, and I'm now focusing on building AI-powered applications using **Python, FastAPI, LLMs, RAG, embeddings, vector search, and modern AI infrastructure**.
+I have a strong foundation in **HTML, CSS, JavaScript, jQuery, React, Node.js, and backend development**, and I'm currently focused on building my expertise in **Python, FastAPI, AI/ML, LLMs, RAG, embeddings, vector search, and modern AI application architecture**.
 
-I learn by building real-world projects rather than only studying theory. My goal is to understand the complete software lifecycle — from **frontend and backend development to databases, system design, security, AI integration, deployment, and production architecture**.
+I learn primarily by building and experimenting with real-world applications. My goal is to understand the complete software lifecycle — from **frontend and backend development to databases, system design, security, AI integration, deployment, and production architecture**.
 
 ---
 
 ## 🚀 What I'm Currently Working On
 
-My main project is **AI-Powered Workspace** — a multi-tenant AI knowledge management SaaS designed to help organizations turn their internal documents and organizational knowledge into an intelligent, searchable knowledge base.
+I'm currently working on **private AI-focused projects** where I'm applying and expanding my knowledge of modern software engineering and AI technologies.
 
-The system is being designed around:
+My current focus includes:
 
-* 🔐 Multi-tenant organization isolation
-* 👥 Organization and project-level roles & permissions
-* 📄 Document management and versioning
-* 🔒 Document-level access control
-* 🧠 Retrieval-Augmented Generation (RAG)
-* 🔎 Semantic search and vector similarity
-* 🧩 Document chunking and embeddings
-* 🗄️ PostgreSQL + pgvector
-* 🤖 LLM-powered question answering
-* 🛡️ Authorization-aware retrieval
-* 📊 Auditing and traceability
-* ⚙️ Background document processing
-* 📚 Source-aware AI responses
+* 🤖 Building AI-powered applications
+* 🧠 Working with Large Language Models (LLMs)
+* 🔎 Exploring RAG and semantic search
+* 🧩 Working with embeddings and vector search
+* 🐍 Developing AI services with Python and FastAPI
+* ⚙️ Designing scalable backend architectures
+* 🔐 Implementing authentication and authorization
+* 🗄️ Improving database design and data modeling
+* ☁️ Learning deployment and cloud infrastructure
+* 📊 Understanding logging, monitoring, and observability
+* 🛡️ Applying security principles to application architecture
 
-The project uses a service-oriented architecture with **Next.js**, **Node.js/TypeScript**, **Python/FastAPI**, and **PostgreSQL**.
+Some of my current work is intentionally kept private while it is under development.
 
 ---
 
@@ -43,6 +41,7 @@ I'm actively developing my skills in:
 * Large Language Models (LLMs)
 * Retrieval-Augmented Generation (RAG)
 * Embeddings & vector databases
+* Semantic search
 * Prompt engineering
 * AI application architecture
 * AI agents
@@ -84,7 +83,7 @@ I'm actively developing my skills in:
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
 
-**Currently exploring:** LLMs • RAG • Embeddings • Vector Search • pgvector • Ollama • AI Agents
+**Exploring:** LLMs • RAG • Embeddings • Vector Search • AI Agents • Ollama
 
 ### Databases
 
@@ -107,34 +106,17 @@ I'm actively developing my skills in:
 I'm particularly interested in solving engineering problems around:
 
 * Building scalable web applications
-* Designing secure backend systems
-* Multi-tenant SaaS architecture
+* Designing reliable backend systems
+* AI-powered applications
+* LLM integration
+* RAG and semantic search
 * Authentication and authorization
 * Database design and data modeling
-* AI-powered products
-* RAG and semantic search systems
-* Integrating LLMs into real applications
-* Turning unstructured data into useful knowledge
-* Designing reliable APIs and services
-* Understanding how systems work end-to-end
-
----
-
-## 📌 Featured Project
-
-### 🧠 AI-Powered Workspace
-
-**AI-Powered Workspace** is a multi-tenant AI organizational knowledge platform that allows companies to securely store, process, search, and interact with their internal knowledge using AI.
-
-**Architecture:**
-
-`Next.js` → `Node.js / TypeScript` → `Python / FastAPI` → `PostgreSQL + pgvector`
-
-**Core pipeline:**
-
-`Document Upload → Processing → Chunking → Embeddings → Vector Search → Permission Filtering → RAG → LLM → Source-Aware Response`
-
-The project is being built with a strong focus on **security, authorization, tenant isolation, document versioning, and production-oriented architecture**.
+* Multi-tenant architectures
+* REST APIs and distributed services
+* Application security
+* Cloud deployment and infrastructure
+* Understanding systems end-to-end
 
 ---
 
@@ -142,19 +124,39 @@ The project is being built with a strong focus on **security, authorization, ten
 
 I'm currently transitioning from traditional web development toward **full-stack AI engineering**.
 
-Rather than focusing only on AI models, I'm interested in the engineering required to turn AI capabilities into **secure, reliable, scalable products**.
+I'm particularly interested in the intersection of **software engineering and artificial intelligence** — not just using AI tools, but understanding how AI-powered systems are designed, developed, secured, deployed, and maintained.
 
-My goal is to become an engineer who can take an idea from:
+I'm continuously building projects, experimenting with new technologies, and strengthening my understanding of **backend engineering, system design, databases, cloud infrastructure, and applied AI**.
 
-**Concept → Architecture → Database → Backend → AI Integration → Frontend → Deployment → Production**
+My long-term goal is to become an engineer capable of taking an idea from:
 
-and understand what is happening at every stage.
+**Concept → Architecture → Development → AI Integration → Deployment → Production**
+
+while understanding the engineering decisions behind each stage.
+
+---
+
+## 📚 Current Focus
+
+```text
+Web Development
+      ↓
+Full-Stack Engineering
+      ↓
+Backend & System Design
+      ↓
+AI / LLM Applications
+      ↓
+Production AI Engineering
+```
+
+I'm currently focusing on strengthening each layer rather than rushing through technologies.
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/MohsinAli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/mohsinali77)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mohsinalideveloper474@gmail.com)
 
 ---
