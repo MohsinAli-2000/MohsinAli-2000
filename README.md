@@ -12,7 +12,7 @@ I learn primarily by building and experimenting with real-world applications. My
 
 ## 🚀 What I'm Currently Working On
 
-I'm currently working on **private AI-focused projects** where I'm applying and expanding my knowledge of modern software engineering and AI technologies.
+I'm currently working on **AI-focused projects** where I'm applying and expanding my knowledge of modern software engineering and AI technologies.
 
 My current focus includes:
 
@@ -28,7 +28,6 @@ My current focus includes:
 * 📊 Understanding logging, monitoring, and observability
 * 🛡️ Applying security principles to application architecture
 
-Some of my current work is intentionally kept private while it is under development.
 
 ---
 
