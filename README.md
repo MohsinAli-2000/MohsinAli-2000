@@ -1,95 +1,41 @@
 # 👋 Hi, I'm Mohsin Ali
 
-### Full-Stack Developer → AI Engineer
+### Full-Stack Engineer → AI Engineer
 
-I'm a **Full-Stack Developer transitioning into AI Engineering**, with around **2 years of professional software development experience**.
+I'm a **Full-Stack Software Engineer** with around **2 years of professional experience**, currently specializing in **AI engineering, backend systems, cloud infrastructure, and production application architecture**.
 
-I have a strong foundation in **frontend development, backend engineering, databases, APIs, and web application architecture**, and I'm currently expanding into **AI/ML, LLMs, RAG, vector search, AI agents, system design, cloud infrastructure, and DevOps**.
+I have a strong foundation in modern web development across **frontend, backend, APIs, databases, and application architecture**, and I'm expanding that foundation into **LLMs, RAG, AI agents, cloud infrastructure, DevOps, and scalable system design**.
 
-I learn primarily by building real-world applications and understanding how the pieces fit together — from **frontend and backend development to databases, infrastructure, security, AI integration, deployment, and production architecture**.
+I enjoy understanding systems end-to-end — not just how to write the application, but how it is **architected, secured, containerized, deployed, monitored, and scaled in production**.
 
-My goal is to become an engineer capable of taking a product from:
-
-**Idea → Architecture → Development → AI Integration → Deployment → Production**
+> **My goal:** Build reliable software systems that combine strong engineering fundamentals with practical AI capabilities.
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 What I Build
 
-I'm currently focused on building **AI-powered applications and production-ready backend systems**.
+My primary interests are at the intersection of **software engineering, cloud infrastructure, and artificial intelligence**.
 
-My current areas of focus include:
-
-* 🤖 Building AI-powered applications
-* 🧠 Working with Large Language Models (LLMs)
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🧩 Embeddings and vector search
-* 🤖 AI agents and tool-using systems
-* 🐍 Python and FastAPI for AI services
-* ⚙️ Scalable backend architecture
-* 🗄️ PostgreSQL and database design
-* 🔐 Authentication and authorization
-* 🏢 Multi-tenant SaaS architecture
-* 🐳 Docker and containerized applications
-* ☁️ AWS and cloud infrastructure
+* 🤖 AI-powered applications and intelligent automation
+* 🧠 LLM-based applications and AI workflows
+* 🔎 RAG, semantic search, embeddings, and vector retrieval
+* ⚙️ Scalable backend services and REST APIs
+* 🏢 Multi-tenant SaaS architectures
+* 🗄️ Reliable data models and database systems
+* 🔐 Authentication, authorization, and application security
+* 🐳 Containerized applications and production environments
+* ☁️ Cloud infrastructure and AWS deployments
 * 🏗️ Infrastructure as Code with Terraform
 * ⚡ Configuration management with Ansible
-* 🔄 CI/CD and automated deployments
-* 🔧 Jenkins and deployment pipelines
-* 🌐 Nginx and production web infrastructure
+* 🔄 CI/CD pipelines and automated deployments
+* 🌐 Nginx-based production infrastructure
 * 📊 Logging, monitoring, and observability
-* 🛡️ Application and infrastructure security
 
 ---
 
-## 🧠 Currently Learning
+# 💻 Technical Skills
 
-### AI & Machine Learning
-
-* AI/ML fundamentals
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Embeddings
-* Vector databases
-* Semantic search
-* Prompt engineering
-* AI agents
-* AI application architecture
-* Ollama and local AI
-
-### Backend & Systems
-
-* Python
-* FastAPI
-* PostgreSQL
-* Database design
-* System design
-* Distributed systems
-* REST APIs
-* Authentication & authorization
-* Multi-tenant architectures
-* Backend scalability
-
-### DevOps & Cloud
-
-* Docker
-* AWS
-* Nginx
-* Terraform
-* Ansible
-* CI/CD
-* Jenkins
-* Linux
-* Cloud infrastructure
-* Production deployments
-* Logging, monitoring & observability
-* Infrastructure security
-
----
-
-# 💻 Tech Stack
-
-## 🎨 Frontend
+## Frontend Engineering
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
@@ -99,9 +45,11 @@ My current areas of focus include:
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge\&logo=redux\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
+**Core:** HTML • CSS • JavaScript • React • Next.js • Redux • Tailwind CSS
+
 ---
 
-## ⚙️ Backend
+## Backend Engineering
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
@@ -110,28 +58,36 @@ My current areas of focus include:
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge\&logo=socket.io\&logoColor=white)
 
+**Core:** Node.js • Express.js • TypeScript • Python • FastAPI • REST APIs • WebSockets
+
 ---
 
-## 🤖 AI / Data
+## 🤖 AI & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
 
-**Exploring:**
+**Focus:**
 
-`LLMs` • `RAG` • `Embeddings` • `Vector Search` • `Semantic Search` • `AI Agents` • `Ollama`
+`LLMs` • `RAG` • `Embeddings` • `Vector Search` • `Semantic Search` • `AI Agents` • `Prompt Engineering` • `Ollama`
+
+I'm particularly interested in building AI systems that are **useful, reliable, secure, and production-ready**, rather than simply integrating AI APIs into applications.
 
 ---
 
-## 🗄️ Databases
+## 🗄️ Databases & Data
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
+**Focus:**
+
+`PostgreSQL` • `MongoDB` • `Data Modeling` • `Database Design` • `Query Optimization` • `Vector Data`
+
 ---
 
-## ☁️ Cloud & DevOps
+## ☁️ Cloud, DevOps & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
@@ -141,140 +97,185 @@ My current areas of focus include:
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge\&logo=jenkins\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
-### CI/CD & Infrastructure
+**Infrastructure:**
 
-`CI/CD` • `Jenkins` • `Docker` • `Terraform` • `Ansible` • `Nginx` • `AWS` • `Linux`
+`AWS` • `Docker` • `Terraform` • `Ansible` • `Nginx` • `Linux`
+
+**CI/CD:**
+
+`Jenkins` • `CI/CD Pipelines` • `Automated Deployment` • `Infrastructure as Code`
 
 ---
 
-## 🛠️ Development Tools
+## 🛠️ Tools & Workflow
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 
----
-
-# 🎯 What I Enjoy Building
-
-I'm particularly interested in engineering problems around:
-
-* 🚀 Scalable web applications
-* ⚙️ Reliable backend systems
-* 🤖 AI-powered applications
-* 🧠 LLM-powered products
-* 🔎 RAG and semantic search systems
-* 🤖 AI agents and intelligent automation
-* 🗄️ Database architecture and data modeling
-* 🏢 Multi-tenant SaaS platforms
-* 🔐 Authentication, authorization and security
-* 🌐 REST APIs and distributed services
-* ☁️ Cloud infrastructure and deployment
-* 🐳 Containerized applications
-* 🔄 CI/CD and deployment automation
-* 🏗️ Infrastructure as Code
-* 📊 Monitoring, logging and observability
-* 🧩 End-to-end system architecture
+I use Git-based workflows for collaborative development, version control, code review, deployment automation, and maintaining production applications.
 
 ---
 
-# 🌱 My Engineering Journey
+# 🧩 Engineering Interests
 
-I'm transitioning from traditional web development toward **Full-Stack AI Engineering**.
+I'm particularly interested in solving problems involving:
 
-What interests me most is the intersection of:
+* **AI application architecture**
+* **LLM-powered systems**
+* **RAG and semantic retrieval**
+* **AI agents and automation**
+* **Backend architecture**
+* **Distributed and scalable systems**
+* **Database architecture**
+* **Multi-tenant SaaS**
+* **Cloud infrastructure**
+* **Infrastructure as Code**
+* **CI/CD and deployment automation**
+* **Application and infrastructure security**
+* **Observability and production reliability**
 
-**Software Engineering + Cloud Infrastructure + Artificial Intelligence**
+---
 
-I don't want to only integrate AI APIs into applications. I want to understand how production AI systems are **architected, developed, secured, deployed, monitored, optimized, and scaled**.
+# 🏗️ How I Think About Software
 
-I'm continuously strengthening my knowledge across the entire engineering stack:
+I believe good engineering is not just about writing code.
+
+A production system needs to be considered as a complete lifecycle:
 
 ```text
-Frontend
-   ↓
-Full-Stack Development
-   ↓
-Backend Engineering
-   ↓
-Databases & System Design
-   ↓
-Cloud & DevOps
-   ↓
-AI / LLM Applications
-   ↓
-Production AI Engineering
-```
-
-My long-term goal is to become an engineer capable of understanding and building **complete production systems**, from the user interface all the way down to infrastructure and AI architecture.
-
----
-
-# 📚 My Current Focus
-
-```text
-                    ┌─────────────────────┐
-                    │   AI Engineering    │
-                    └──────────┬──────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │ LLMs • RAG • Agents │
-                    └──────────┬──────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │ Backend & System    │
-                    │      Design         │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────▼────────────────┐
-              │       Cloud & DevOps            │
-              │ AWS • Docker • Terraform        │
-              │ Ansible • CI/CD • Jenkins       │
+                    ┌──────────────────────┐
+                    │       Product        │
+                    │        Idea          │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │     Architecture     │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │     Development      │
+                    └──────────┬───────────┘
+                               ↓
+              ┌─────────────────────────────────┐
+              │        Backend + Database       │
               └────────────────┬────────────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │ Full-Stack Web Dev  │
-                    └─────────────────────┘
+                               ↓
+              ┌─────────────────────────────────┐
+              │          AI Integration         │
+              └────────────────┬────────────────┘
+                               ↓
+              ┌─────────────────────────────────┐
+              │       Docker + Infrastructure   │
+              └────────────────┬────────────────┘
+                               ↓
+              ┌─────────────────────────────────┐
+              │        CI/CD + Deployment       │
+              └────────────────┬────────────────┘
+                               ↓
+              ┌─────────────────────────────────┐
+              │   Monitoring + Security + Scale │
+              └─────────────────────────────────┘
 ```
 
-I'm focusing on **depth, practical implementation, and understanding how technologies work together**, rather than simply collecting technologies.
+My focus is to understand **how all of these layers work together**, rather than treating them as isolated technologies.
+
+---
+
+# 🎯 My Current Direction
+
+I'm building toward becoming a **Full-Stack AI Engineer** capable of designing and delivering production systems across the entire stack.
+
+```text
+Full-Stack Development
+          ↓
+Backend Engineering
+          ↓
+System Design & Databases
+          ↓
+Cloud & DevOps
+          ↓
+AI / LLM Engineering
+          ↓
+Production AI Systems
+```
+
+The goal isn't to learn every technology.
+
+The goal is to develop the engineering depth required to **choose the right technology, understand its trade-offs, and build reliable systems with it.**
+
+---
+
+# 🌱 Continuous Learning
+
+I'm continuously deepening my knowledge in:
+
+**AI Engineering**
+LLMs • RAG • Agents • Embeddings • Vector Search • AI Architecture
+
+**Backend Engineering**
+Python • FastAPI • Node.js • TypeScript • APIs • Distributed Systems
+
+**Systems & Data**
+PostgreSQL • MongoDB • Data Modeling • System Design
+
+**Cloud & Infrastructure**
+AWS • Docker • Terraform • Ansible • Nginx • Linux
+
+**Delivery & Operations**
+CI/CD • Jenkins • Deployment Automation • Monitoring • Observability • Security
 
 ---
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/mohsinali77)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mohsinalideveloper474@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/mohsinali77">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohsinalideveloper474@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-![](https://github-readme-stats.shion.dev/api?username=MohsinAli-2000\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=MohsinAli-2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
 
-![](https://streak-stats.demolab.com/?user=MohsinAli-2000\&theme=dark\&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MohsinAli-2000&theme=dark&hide_border=false" />
+</p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MohsinAli-2000\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MohsinAli-2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ---
 
-# 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=MohsinAli-2000\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
-
----
-
-# 🐍 My Contribution Journey
+# 🐍 Contribution Activity
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohsinAli-2000/MohsinAli-2000/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohsinAli-2000/MohsinAli-2000/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MohsinAli-2000/MohsinAli-2000/output/github-contribution-grid-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MohsinAli-2000/MohsinAli-2000/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MohsinAli-2000/MohsinAli-2000/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution activity"
+      src="https://raw.githubusercontent.com/MohsinAli-2000/MohsinAli-2000/output/github-contribution-grid-snake.svg"
+    />
   </picture>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohsinAli-2000&icon=0&color=0" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=MohsinAli-2000&icon=0&color=0" alt="Profile Views" />
 </p>
