@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohsin Ali
 
-### Full-Stack AI Engineer | Backend Engineer | AI Systems Builder
+### Full-Stack AI Engineer
 
 <p align="left">
   <a href="https://ai-powered-workspace.vercel.app">
