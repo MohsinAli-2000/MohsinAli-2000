@@ -12,6 +12,9 @@
   <a href="https://linkedin.com/in/mohsinali77">
     <img src="https://img.shields.io/badge/LinkedIn-Mohsin_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://mohsin-ali-portfolio-inky.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-Mohsin_Ali-0A66C2?style=for-the-badge&logo=website&logoColor=white" alt="website" />
+  </a>
 </p>
 
 I'm a **Full-Stack AI Engineer** focused on building **production-ready AI applications and scalable backend systems**.
