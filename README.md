@@ -374,10 +374,17 @@ My strongest area of interest is the intersection of **backend engineering + AI 
 </p>
 
 <p align="center">
+  
+<h2 align="center">🔥 GitHub Contribution Streak</h2>
+
+<p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=MohsinAli-2000&theme=dark&hide_border=false"
-    alt="GitHub contribution streak"
+    src="./profile/streak.svg"
+    alt="Mohsin Ali's GitHub Contribution Streak"
+    width="500"
   />
+</p>
+
 </p>
 
 <p align="center">
